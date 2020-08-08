@@ -1,4 +1,4 @@
-### Hi there 👋
+![This years GitHub statistics](https://github-readme-stats.vercel.app/api?username=HorizonNet&show_icons=true&hide_title=true)
 
 <!--
 **HorizonNet/HorizonNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
